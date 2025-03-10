@@ -4,9 +4,8 @@ I am here to collaborate ,  learn , build an application. An application to assi
 the way we view aging , help with healthy lifestyle habits, the loneliness , loss of independence  as 
 guiding that segment back to learning. An application that would taylor their needs using algorithms
 to guide them through their favorite stores. No more getting loss in the aisles. 
-Colleges have a market however they are not utilizing this market to it's fullest.
-Whats your reason? I had forgotten my reason , Untill that day on a parking lot ... then revisted a doctors words ....
-picked up my phone , shaken ...thinking what can I do , then I saw Google app on my phone .Yes algorithms utilized everyday.
+Whats your reason? I had forgotten my reason , Untill that day on a parking lot ... 
+picked up my phone ,  then I saw Google app on my phone .Yes algorithms utilized everyday.
 As they guided me safely to my tutoring class. Thank You Google , Microsoft and DevOPs.  I am still in the learning phase.
 
 
