@@ -5,7 +5,7 @@ the way we view aging , help with healthy lifestyle habits, the loneliness , los
 guiding that segment back to learning. An application that would taylor their needs using algorithms
 to guide them through their favorite stores. No more getting loss in the aisles. 
 Whats your reason? I had forgotten my reason , Untill that day on a parking lot ... 
-picked up my phone ,  then I saw Google app on my phone .Yes algorithms utilized everyday.
+picked up my phone , saw Google app on my phone .Yes algorithms utilized everyday.
 As they guided me safely to my tutoring class. Thank You Google , Microsoft and DevOPs.  I am still in the learning phase.
 
 
