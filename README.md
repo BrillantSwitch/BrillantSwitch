@@ -6,7 +6,7 @@ guiding that segment back to learning. An application that would taylor their ne
 to guide them through their favorite stores. No more getting loss in the aisles. 
 Whats your reason? I had forgotten my reason , Until that day on a parking lot ... 
 picked up my phone , saw Google app on my phone .Yes algorithms utilized everyday.
-As they guided me safely to my tutoring class. Thank You Google , Microsoft and DevOPs.  I am still in the learning phase.
+As they guided me safely to my tutoring class .I am still in the learning phase.
 
 
 
