@@ -1,0 +1,54 @@
+using System;
+using System.Collections.generic;
+using System.Collections.generic;
+Dijkstra's
+Public static void  FindShortestPath(Dictionary<string, Dictionary<string, int>> graph, string start)
+   var distances = new Dictionary,string ,int>);
+   var priorityQue = new Sorted <(int,string)
+    var previousNodes -new Dictionary<string,string>);
+    // initalize distances and priority queue
+    foreach (var nde ingraph.Keys)
+    {
+        distances[node]int.MaxValue; // Set initial distance to "infinity"
+        previousNodes = null;
+    }
+    didtances[start]=0; 
+    priorityQueue.Add((0, start ));
+    while (priorityQueue.Count >0
+    {
+         var (currentDistance, currentNode) =priorityQueue.Min;
+         priorityQueue.Remove(priorityQueue.Min);
+
+    }
+    
+    foreach (var neighbor on graph [currentNode])
+    {
+        int newDistance = currentDistance +neighbor.Value;
+        if (newDistance <distances[neighbor.key])
+ } 
+        priorityQueue.Remove (distances[neighbor.Key],neighbor.Key));
+        distances[neighbor/.Key]=currentNode;
+        previousNodes[neighbor].Key=currentnode;
+        priorityQueue.Add(newDistance, neighbor.key));
+        }
+    )
+}
+//Output the distances 
+Console.WriteLine(Shoertest path from" + start + ":");
+foreach (var node in distances)
+{
+     Console.WriteLine(${node.Key}: {node.Value} steps");
+}
+}
+static void Main ()
+{  
+    {"Entrance" new Dictionary<string ,int >{{, 3 }}},
+
+    { "Mustard" Section,new Dictionary<string , >{{ "Eggs Section"}}
+    }}
+    {"Eggs Section", new Dictionary}<string, int>{{}}
+};
+FindShortestPath(graph, "Entrance");
+
+
+}
