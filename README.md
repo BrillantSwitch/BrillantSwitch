@@ -4,7 +4,7 @@ I am here to collaborate ,  learn , build an application. An application to assi
 preventing  data manipulation , changing  of content in transcripts As my memory is returning .
 guiding that segment back to learning. An application would protect individuals from being taken advantage in United States Courts . 
 What's your reason? I had forgotten my reason , Until that day on a parking lot ... 
-picked up my phone ,  saw Google app on my phone . Yes indeed algorithms utilized everyday 
+picked up my phone ,  saw Google app on my phone Yes indeed algorithms utilized everyday 
 
 
 
