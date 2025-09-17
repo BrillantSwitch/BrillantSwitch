@@ -1,12 +1,11 @@
 👋Hi there 👋 as I sat in my auto one day ....
 I had lost my way .... I would soon recall Dijkstra's Algorithm and many more. 
-I am here to collaborate ,  learn , build an application. An application to assist an aging population. This application will help lead change 
-the way we view aging , help with healthy lifestyle habits, the loneliness , loss of independence  as 
-guiding that segment back to learning. An application that would tailor their needs using algorithms
-to guide them through their favorite stores. No more getting loss in the aisles. 
+I am here to collaborate ,  learn , build an application. An application to assist a population. This application will help lead change 
+preventing  data manipulation , changing  of content in transcripts As my memory is returning .
+guiding that segment back to learning. An application would protect individuals from being taken advantage in United States Courts . 
 What's your reason? I had forgotten my reason , Until that day on a parking lot ... 
-picked up my phone ,  saw Google app on my phone . Yes indeed algorithms utilized everyday.
-As they guided me safely to my tutoring class .I am still in the learning phase.
+picked up my phone ,  saw Google app on my phone . Yes indeed algorithms utilized everyday 
+
 
 
 
