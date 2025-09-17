@@ -1,8 +1,8 @@
 👋Hi there 👋 as I sat in my auto one day ....
 I had lost my way .... I would soon recall Dijkstra's Algorithm and many more. 
 I am here to collaborate ,  learn , build an application. An application to assist a population. This application will help lead change 
-preventing  data manipulation , changing  of content in transcripts As my memory is returning .
-guiding that segment back to learning. An application would protect individuals from being taken advantage in United States Courts . 
+preventing  data manipulation , changing  of content in transcripts  My very words taken out of transcripts in a remote Court. As my memory is returning .
+guiding that segment back to learning. An application would fall under the RICO Act with undertones of the Hobbs Act .Influence  Peddling  , Pandering  filed in a Court of Law in 2023 
 What's your reason? I had forgotten my reason , Until that day on a parking lot ... 
 picked up my phone ,  saw Google app on my phone Yes indeed algorithms utilized everyday 
 
