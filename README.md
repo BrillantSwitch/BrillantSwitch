@@ -1,4 +1,4 @@
-Hi there! ✋ Yes indeed algorithms utilized everyda 
+Hi there! ✋ Yes indeed algorithms utilized everyday 
 currntlu working on  ... 
 test <string , int , string>
 <!--
