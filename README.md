@@ -1,5 +1,5 @@
 Hi there! ✋ Yes indeed algorithms utilized everyday 
-currntlu working on  ... 
+currently working on  ... 
 test <string , int , string>
 <!--
 **BrillantSwitch/BrillantSwitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
